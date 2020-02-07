@@ -1,0 +1,40 @@
+BUscador de FIcheros
+
+Forma de usar el programa:
+bash bufi.sh <directorio> <opción de búsqueda> <opción extra> <acción (opcional)>
+
+Ejemplo: bash bufi.sh /home/sergio/descargas/pruebas -t -d -print
+
+<directorio>: /home/sergio/descargas/pruebas
+<opción de búsqueda>: -t
+<opción extra>: -d 
+<acción>: -print
+
+Busca en el directorio /home/sergio/descargas/pruebas
+por TIPO DE ARCHIVO y MIRA SOLO LOS DIRECTORIOS e
+IMPRIME LA BÚSQUEDA REALIZADA
+
+----------------------------------------------------------------------
+-t):
+bash bufi.sh /home/sergio -t -f
+bash bufi.sh /home/sergio -t -d
+bash bufi.sh /home/sergio -t -
+bash bufi.sh /home/sergio -t -*
+
+-n):
+bash bufi.sh /home/sergio -n
+
+-p):
+bash bufi.sh /home/sergio -p -x
+bash bufi.sh /home/sergio -p -r
+bash bufi.sh /home/sergio -p -w
+bash bufi.sh /home/sergio -p -*
+
+-c):
+bash bufi.sh /home/sergio -c
+
+*):
+bash bufi.sh /home/sergio -z
+
+-print):
+bash bufi.sh /home/sergio -t -f -print
