@@ -1,4 +1,4 @@
-<b>Buscador de ficheros</b>
+Buscador de ficheros
 
 Proyecto realizado en CentOS 7 con Interfaz Gráfica
 
