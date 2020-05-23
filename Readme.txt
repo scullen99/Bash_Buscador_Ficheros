@@ -1,4 +1,4 @@
-#Buscador de ficheros (BUFI)
+<b>Buscador de ficheros</b>
 
 Proyecto realizado en CentOS 7 con Interfaz Gráfica
 
