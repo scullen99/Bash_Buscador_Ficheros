@@ -1,7 +1,5 @@
-Buscador de ficheros
+# Buscador de ficheros
 
-Proyecto realizado en CentOS 7 con Interfaz Gráfica
+### Proyecto realizado en CentOS 7 
 
-Ultima vez modificado: 26-1-2020 en CentOS 7
-
-Trabajo realizado por Sergio Esteban Tarrero - Grupo 2ºZ
+### Ultima vez modificado: 26-1-2020 en CentOS 7
